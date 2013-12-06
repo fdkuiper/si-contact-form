@@ -1,3 +1,6 @@
+This is a fork of https://github.com/wp-plugins/si-contact-form. All credits to Mike Challis for his wonderfull work.
+
+
 === Fast Secure Contact Form ===
 Contributors: Mike Challis
 Author URI: http://www.642weather.com/weather/scripts.php
